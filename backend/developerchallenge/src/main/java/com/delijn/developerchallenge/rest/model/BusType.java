@@ -1,6 +1,6 @@
 package com.delijn.developerchallenge.rest.model;
 
-public enum SizeBus {
+public enum BusType {
     GROOT,
     NORMAAL,
     MINI;
